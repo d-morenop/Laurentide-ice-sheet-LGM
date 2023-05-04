@@ -1,2 +1,2 @@
-# Supplementary_TC-2022-97
-Supplementary scrips for necessary calculation and plots.
+# Laurentide-ice-sheet-LGM
+Scrips for necessary calculations and plots.
